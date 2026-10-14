@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Karmeen Desai
 
-<!--
-**karmeendesai/karmeendesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics student at the University of Toronto interested in data analytics, statistics, and quantitative finance.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SQL-Powered Personal Finance Dashboard](https://github.com/karmeendesai/sql-finance-dashboard)
+- [NBA Team Performance Analysis](https://github.com/karmeendesai/nba-win-percentage-analysis)
+- [SPY–QQQ Mean Reversion Strategy](https://github.com/karmeendesai/mean-reversion-SPY-QQQ)
+
+## Technical Skills
+
+- Python
+- SQL
+- R
+- Tableau
+- Excel
+- pandas
+- NumPy
+- Statsmodels
+- Plotly
+- Streamlit
+- SQLite
+- Git
