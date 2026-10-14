@@ -1,6 +1,6 @@
 # Hi, I'm Karmeen Desai
 
-Mathematics student at the University of Toronto interested in data analytics, statistics, and quantitative finance.
+Mathematics and Statistics student at the University of Toronto interested in data analytics, statistics, and quantitative finance.
 
 ## Featured Projects
 
